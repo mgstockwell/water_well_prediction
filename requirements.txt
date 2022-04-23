@@ -1,0 +1,14 @@
+wheel
+pytest
+pylint
+jupyter
+pytest-cov
+pandas
+nbval
+click
+flask
+requests
+google-cloud-storage
+datadotworld[pandas] 
+folium
+google-cloud-bigquery
