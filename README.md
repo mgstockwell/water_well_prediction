@@ -1,2 +1,2 @@
 # water_well_prediction
-ML project to predict water well depth based on soil condicaitons
+ML project to predict water well depth based on soil conditions.
